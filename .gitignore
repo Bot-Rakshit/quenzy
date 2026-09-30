@@ -7,3 +7,4 @@ reel/previews/v_*.png
 reel/previews/vcheck.png
 # full-quality master is ~70MB; rebuild with reel/build.sh
 reel/out/quenzy_reel.mp4
+reel2/out/
