@@ -1,0 +1,9 @@
+node_modules/
+reel/build/
+reel/previews/still_*.png
+reel/previews/m*.png
+reel/previews/c_*.png
+reel/previews/v_*.png
+reel/previews/vcheck.png
+# full-quality master is ~70MB; rebuild with reel/build.sh
+reel/out/quenzy_reel.mp4
